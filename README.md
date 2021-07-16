@@ -12,7 +12,7 @@
 ### 知识树
 
 - 音视频基础知识
-- C 语言
+- [C 语言](https://github.com/kamaihamaiha/immoc_for_c.git)
 - C ++
 - FFmpeg
 - Linux

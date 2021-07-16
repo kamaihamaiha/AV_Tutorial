@@ -1,0 +1,3 @@
+[submodule "immoc_for_c"]
+	path = immoc_for_c
+	url = https://github.com/kamaihamaiha/immoc_for_c.git
